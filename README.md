@@ -1,8 +1,8 @@
 # Quantamental
 
-###### Qualitative &/+ Fundamental
+#### Qualitative &/+ Fundamental
 
-###### Fundamental analysis driven by data & quantitative analysis following business logic
+#### Fundamental analysis driven by data & quantitative analysis following business logic
 
 
 
